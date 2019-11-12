@@ -1,0 +1,2 @@
+﻿  main.cpp
+LINK : fatal error LNK1104: Datei "C:\Dev\HKHLib\bin\Debug-x64\HKHLib\HKHLib.lib" kann nicht geöffnet werden.
